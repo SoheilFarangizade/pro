@@ -19,3 +19,9 @@ enum Color {
 enum Pattern {
 	DOTTED, STRIPED, ZIGZAG
 }
+
+enum Radius{
+
+10,20,30
+
+}
